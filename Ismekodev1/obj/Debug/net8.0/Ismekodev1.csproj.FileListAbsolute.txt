@@ -1,0 +1,14 @@
+C:\dev\Ismekodev1\bin\Debug\net8.0\Ismekodev1.exe
+C:\dev\Ismekodev1\bin\Debug\net8.0\Ismekodev1.deps.json
+C:\dev\Ismekodev1\bin\Debug\net8.0\Ismekodev1.runtimeconfig.json
+C:\dev\Ismekodev1\bin\Debug\net8.0\Ismekodev1.dll
+C:\dev\Ismekodev1\bin\Debug\net8.0\Ismekodev1.pdb
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.AssemblyInfoInputs.cache
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.AssemblyInfo.cs
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.csproj.CoreCompileInputs.cache
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.dll
+C:\dev\Ismekodev1\obj\Debug\net8.0\refint\Ismekodev1.dll
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.pdb
+C:\dev\Ismekodev1\obj\Debug\net8.0\Ismekodev1.genruntimeconfig.cache
+C:\dev\Ismekodev1\obj\Debug\net8.0\ref\Ismekodev1.dll
