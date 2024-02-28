@@ -1,0 +1,1 @@
+ismek ilk hafta ödevleri
