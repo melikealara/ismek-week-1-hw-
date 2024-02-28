@@ -1,0 +1,14 @@
+C:\dev\odev2\bin\Debug\net8.0\odev2.exe
+C:\dev\odev2\bin\Debug\net8.0\odev2.deps.json
+C:\dev\odev2\bin\Debug\net8.0\odev2.runtimeconfig.json
+C:\dev\odev2\bin\Debug\net8.0\odev2.dll
+C:\dev\odev2\bin\Debug\net8.0\odev2.pdb
+C:\dev\odev2\obj\Debug\net8.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\odev2\obj\Debug\net8.0\odev2.AssemblyInfoInputs.cache
+C:\dev\odev2\obj\Debug\net8.0\odev2.AssemblyInfo.cs
+C:\dev\odev2\obj\Debug\net8.0\odev2.csproj.CoreCompileInputs.cache
+C:\dev\odev2\obj\Debug\net8.0\odev2.dll
+C:\dev\odev2\obj\Debug\net8.0\refint\odev2.dll
+C:\dev\odev2\obj\Debug\net8.0\odev2.pdb
+C:\dev\odev2\obj\Debug\net8.0\odev2.genruntimeconfig.cache
+C:\dev\odev2\obj\Debug\net8.0\ref\odev2.dll

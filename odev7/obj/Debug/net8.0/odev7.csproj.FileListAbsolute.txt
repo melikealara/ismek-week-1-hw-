@@ -1,0 +1,14 @@
+C:\dev\odev7\bin\Debug\net8.0\odev7.exe
+C:\dev\odev7\bin\Debug\net8.0\odev7.deps.json
+C:\dev\odev7\bin\Debug\net8.0\odev7.runtimeconfig.json
+C:\dev\odev7\bin\Debug\net8.0\odev7.dll
+C:\dev\odev7\bin\Debug\net8.0\odev7.pdb
+C:\dev\odev7\obj\Debug\net8.0\odev7.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\odev7\obj\Debug\net8.0\odev7.AssemblyInfoInputs.cache
+C:\dev\odev7\obj\Debug\net8.0\odev7.AssemblyInfo.cs
+C:\dev\odev7\obj\Debug\net8.0\odev7.csproj.CoreCompileInputs.cache
+C:\dev\odev7\obj\Debug\net8.0\odev7.dll
+C:\dev\odev7\obj\Debug\net8.0\refint\odev7.dll
+C:\dev\odev7\obj\Debug\net8.0\odev7.pdb
+C:\dev\odev7\obj\Debug\net8.0\odev7.genruntimeconfig.cache
+C:\dev\odev7\obj\Debug\net8.0\ref\odev7.dll
